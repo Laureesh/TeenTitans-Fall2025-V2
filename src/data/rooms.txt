@@ -1,0 +1,310 @@
+ROOM:1
+Janitors Closet
+A dark, musty room that is small in size. You are surrounded by many different cleaning supplies a janitor like yourself needs for their job.
+north=-1
+south=-1
+east=2
+west=-1
+monster=-1
+puzzle=-1
+items=Item_1
+--------
+
+ROOM:2
+Bathroom
+A quaint little bathroom with three stalls. The windows are cracked, and the light is very dim as you can barely see your reflection.
+north=-1
+south=-1
+east=3
+west=1
+monster=-1
+puzzle=1
+items=none
+--------
+
+ROOM:3
+Patient Room
+A normal patient that seemly has not changed even abandon with the sheets still clean and the beds made. There are 3 beds separated by curtains.
+north=-1
+south=-1
+east=4
+west=2
+monster=-1
+puzzle=2
+items=none
+--------
+
+ROOM:4
+Employee Lounge
+The room that was once a place for employees to talk and take a break is now abandoned and dirty. The microwave is open with a dirty exploded casserole on the microwave walls. There is a note on the fridge that says, “if you ever see Freeman, tell him I know what he done.”
+north=-1
+south=-1
+east=5
+west=3
+monster=1
+puzzle=-1
+items=Item_16
+--------
+
+ROOM:5
+Patient Room
+A normal patient that seemly has not changed even abandon with the sheets still clean and the beds made. There are 3 beds separated by curtains.
+north=-1
+south=6
+east=-1
+west=4
+monster=2
+puzzle=-1
+items=none
+--------
+
+ROOM:6
+X-Ray Room
+A dark room with a levitated bed in the middle hooked up to a strange machine.
+north=5
+south=-1
+east=7
+west=-1
+monster=1
+puzzle=-1
+items=Item_15,Item_12
+--------
+
+ROOM:7
+Public Dining Room
+A big room with tables and chairs lay about. You can smell that awful rotten smell here closely.
+north=-1
+south=-1
+east=8
+west=6
+monster=-1
+puzzle=3
+items=none
+--------
+
+ROOM:8
+Cafeteria Serving Area
+A long maze-like railway that leads to an empty long table where maidens in white would give food to the desperate. The despair can be felt as there is nothing here, not even a scrap to be found. Plastic trays lay around scattered on the ground.
+north=-1
+south=-1
+east=9
+west=7
+monster=-1
+puzzle=-1
+items=Item_17
+--------
+
+ROOM:9
+Employee Dining Area
+Surprisingly a well-maintained area lies before you as the furniture is all upright with no speck of dust or food on the floor. You wonder if anybody has even eaten here before.
+north=-1
+south=-1
+east=10
+west=8
+monster=3
+puzzle=-1
+items=none
+--------
+
+ROOM:10
+Bathroom
+The room is a metal cage with a big machine in the metal. Seem like some sort of death device as it seems like they strap people into the platform and move them into to the machine to do something horrible to them.
+north=-1
+south=11
+east=-1
+west=9
+monster=-1
+puzzle=4
+items=none
+--------
+
+ROOM:11
+Morgue Room
+The smell of death is in the room as they room is filled with metal coffins in the walls as the room cause great shivers through the body due to how cold it is.
+north=10
+south=-1
+east=12
+west=-1
+monster=-1
+puzzle=-1
+items=Item_19
+--------
+
+ROOM:12
+Furnace Room
+The room is flaming hot as the sweat immediately evaporates from the forehead. There is a torture death trap in the back of the room where a metal cage burns hot with hell flames.
+north=-1
+south=-1
+east=13
+west=11
+monster=-1
+puzzle=5
+items=none
+--------
+
+ROOM:13
+Autopsy Room
+There is a metal table in the middle of the room with a bunch of sharp tools around it. Seemly a place to cut open innocent people and check their insides.
+north=-1
+south=-1
+east=14
+west=12
+monster=3
+puzzle=-1
+items=Item_3
+--------
+
+ROOM:14
+Server Room
+The room is dark with strange devices standing tall and still with many components inside. The device that once stored a person's information is now gone.
+north=-1
+south=-1
+east=15
+west=13
+monster=1
+puzzle=-1
+items=Item_18
+--------
+
+ROOM:15
+Patient Room
+A normal patient that seemly has not changed even abandon with the sheets still clean and the beds made. There are 3 beds separated by curtains.
+north=-1
+south=16
+east=-1
+west=14
+monster=-1
+puzzle=6
+items=Item_4,Item_19
+--------
+
+ROOM:16
+Patient Room
+A normal patient that seemly has not changed even abandon with the sheets still clean and the beds made. There are 3 beds separated by curtains.
+north=15
+south=-1
+east=17
+west=-1
+monster=-1
+puzzle=8
+items=none
+--------
+
+ROOM:17
+ER
+A treatment room for people in desperate need of care, especially after an accident. There is a large bed in the center with many tools around it with machines next to it to track vitals.
+north=-1
+south=-1
+east=18
+west=16
+monster=-1
+puzzle=7
+items=none
+--------
+
+ROOM:18
+ER Waiting Room
+A room with dozens of chairs and turn off TV on the ceiling.
+north=-1
+south=-1
+east=19
+west=17
+monster=6
+puzzle=-1
+items=Item_13
+--------
+
+ROOM:19
+Surgery Room
+Red stains lay on the floor as the table seemly have not been used in months. The horror of the past can still be felt now even when abandoned.
+north=-1
+south=-1
+east=20
+west=18
+monster=7
+puzzle=-1
+items=Item_6,Item_20
+--------
+
+ROOM:20
+Bathroom
+A dirty room with three stalls and a large mirror with sinks under it, the air has a putrid smell from years of non-cleanliness.
+north=-1
+south=21
+east=-1
+west=19
+monster=-1
+puzzle=-1
+items=none
+--------
+
+ROOM:21
+ICU Room #1
+One bed in the middle of the room with a bunch of machines next to it that once track the life of a patient.
+north=20
+south=-1
+east=22
+west=-1
+monster=8
+puzzle=-1
+items=Item_14
+--------
+
+ROOM:22
+ICU Room #2
+One bed in the middle of the room with a bunch of machines next to it that once track the life of a patient.
+north=-1
+south=-1
+east=23
+west=21
+monster=7
+puzzle=-1
+items=Item_2
+--------
+
+ROOM:23
+Front Desk
+Once a place for greetings into the building now empty as paper and pens lay about on the desk and floor with the chair still standing at the desk.
+north=-1
+south=-1
+east=24
+west=22
+monster=-1
+puzzle=9
+items=none
+--------
+
+ROOM:24
+Entrance Waiting Room
+A dozen chairs fill the area where people waited to enter the building. There are little crumbled pieces of paper on the floor with little numbers and letters.
+north=-1
+south=-1
+east=25
+west=23
+monster=-1
+puzzle=-1
+items=Item_13,Item_6
+--------
+
+ROOM:25
+Screening Room
+A large black window is in this room, used to make sure of one humanity by seemingly scanning their body for objects.
+north=-1
+south=26
+east=-1
+west=24
+monster=-1
+puzzle=10
+items=none
+--------
+
+ROOM:26
+Entrance
+A JACKED homeless man is guarding the exit door with his shopping cart.
+north=25
+south=-1
+east=-1
+west=-1
+monster=4
+puzzle=-1
+items=none

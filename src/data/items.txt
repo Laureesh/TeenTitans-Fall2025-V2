@@ -1,0 +1,119 @@
+ITEM:Item_1
+Weapon
+5
+Sword of Cutting
+A small sword found in the janitor's closet. Light, retractable, and sharp.
+
+ITEM:Item_2
+Armor
+7
+Armor of Hope
+Lightweight steel torso armor that brings you hope in this dreadful place.
+
+ITEM:Item_3
+Armor
+5
+Gloves of Courage
+Diamond-enchanted gloves that are durable yet flexible.
+
+ITEM:Item_4
+Armor
+5
+Mask of Strength
+An iron knight’s mask that boosts your strength while staying surprisingly light.
+
+ITEM:Item_5
+Key
+0
+Key F5
+A small key used to unlock access to Floor 4.
+
+ITEM:Item_6
+Consumable
+20
+Buzzball
+A familiar alcoholic drink that restores 20 HP when consumed.
+
+ITEM:Item_7
+Key
+0
+Key F4
+A small key used to unlock access to Floor 3.
+
+ITEM:Item_8
+Key
+0
+Key F3
+A small key used to unlock access to Floor 2.
+
+ITEM:Item_9
+Key
+0
+Key F2
+A small key used to unlock access to Floor 1.
+
+ITEM:Item_10
+Key
+0
+Entrance Key
+The final key needed to unlock the hospital entrance.
+
+ITEM:Item_11
+Consumable
+1
+Coin
+A vending machine coin used to attempt puzzles.
+
+ITEM:Item_12
+Consumable
+1
+Adrenaline Shot
+A concentrated adrenaline dose granting an extra attack on your turn.
+
+ITEM:Item_13
+Consumable
+5
+Strange Syringe
+A syringe filled with unknown liquid. Grants +5 attack for 3 turns.
+
+ITEM:Item_14
+Weapon
+12
+Sword of Light
+A holy blade shaped like a mop that shines with divine radiance.
+
+ITEM:Item_15
+Armor
+3
+Leather Jacket
+A worn leather jacket providing minor protection. Initials “D.M.” on the back.
+
+ITEM:Item_16
+Armor
+3
+Bucket Hat
+A metal headwear that protects against danger but limits your vision.
+
+ITEM:Item_17
+Consumable
+10
+Pills
+A bottle of pills capable of healing 10 HP.
+
+ITEM:Item_18
+Weapon
+9
+Dual Blades
+Two sharp blades that feel more like crutches but still deal deadly damage.
+
+ITEM:Item_19
+Consumable
+10
+Oxygen Mask
+A tank-connected mask that heals 10 HP twice.
+
+ITEM:Item_20
+Armor
+7
+Neck Ring
+A glowing neck guard offering strong durability, like a stiff brace.

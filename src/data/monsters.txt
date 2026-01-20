@@ -1,0 +1,71 @@
+MONSTER:1
+Small Rat
+A Rat that moves unlike a normal rat at unnatural speeds and roars like a dragon.
+10
+1
+3
+1
+drops=Item_11
+
+MONSTER:2
+Big Rat
+A giant rat with scruffy fur that moves unnaturally and makes strange squeals.
+20
+2
+4
+2
+drops=Item_11
+
+MONSTER:3
+Corpse
+A preserved body of an old man stands in your way; The monster produces a strange humming sound from their direction.
+10
+1
+4
+1
+drops=Item_11
+
+MONSTER:4
+Homeless Man
+Hey man do you have any changgge?
+50
+3
+7
+10
+drops=Item_10
+
+MONSTER:5
+Biggie Cheese
+And now, the greatest test of all. They must be made to see that their monstrous god is mortal.
+100
+10
+20
+10
+drops=
+
+MONSTER:6
+Biggest Rat
+The biggest rat around in the hospital. It roars like a lion and moves in a hypnosis dance.
+30
+3
+6
+5
+drops=Item_11
+
+MONSTER:7
+Shadow Person
+Dark figures lurk in this room. They stretch and shrink in response to hide from the light.
+10
+1
+5
+100
+drops=Item_11
+
+MONSTER:8
+DragonFly
+You hear a creature wings flying around. The sound gets closer and the creature reveals itself as Dragon.
+40
+7
+8
+10
+drops=Item_11,Item_11
